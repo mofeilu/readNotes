@@ -8,3 +8,6 @@ iterative closest point (ICP) algorithm,  Least Squares 3D surface matching (LS3
 
 keypint extraction and matching:  Harris corner detector,  scale invariant feature transform (SIFT), determinant of hessian (DoH), 
 Seepd-Up Robust Features(SURF).
+
+Perspective-n-point (PnP) problem
+bundle adjustment (BA)
