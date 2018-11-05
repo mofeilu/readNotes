@@ -1,0 +1,27 @@
+================= for optimization and machine learning related ===========================
+Bayesian Optimization, Multi-Objective Optimization, Bayesian inference
+Ordinary Kriging/Universal Kriging/Kriging with noise
+Linear regression/LASSO/ridge regression/support vector regression
+L1/L2 regularization, sparse regression, compress sensing, Tensor recovery
+Singular value decomposition (SVD)
+Convex optimization
+PCA/K-means/KNN/SVM/EM 
+Kernel methods, Boosting, etc
+Importance sampling/statistical rejection/high-sigma Monte Carlo/subset simulation
+Genetic algorithm/LM/line-search/Quasi-Newton/Nelder-Mead Simplex/SLSQP/BFGS/CG
+Nonlinear Least square methods
+RSM/orthogonal polynomials/HDMR
+DOE, D-Optimal sampling
+Robust Optimization
+Stochastic optimization
+About convex optimization:
+https://web.stanford.edu/class/ee364a/lectures.html
+
+======================== for deep learning and computer vision related ======================
+Map reduce framework
+Deep learning, object detection,  slam, bundle adjustment …
+Red black tree, KD tree
+Slam, structure from motion
+SIFT, HOG, Canny Edge detection
+RANSAC
+Graph related algorithm (graph matching, cycle detection, etc)
