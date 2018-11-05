@@ -1,3 +1,10 @@
 The book:  Reconstruction and Analysis of 3D Scenes_ From Irregularly Distributed 3D Points to Object Classes
 
 just focus on chapter 4
+
+-------------topic to study: 3d point cloud registration ---------------
+method that need good intial alignment:
+iterative closest point (ICP) algorithm,  Least Squares 3D surface matching (LS3D)
+
+keypint extraction and matching:  Harris corner detector,  scale invariant feature transform (SIFT), determinant of hessian (DoH), 
+Seepd-Up Robust Features(SURF).
