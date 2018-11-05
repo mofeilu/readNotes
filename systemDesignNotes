@@ -4,3 +4,6 @@ Scalbility , Mater Slave, Load Balancer, Web Server, Message Queue, Sharding, Co
 
 
 (Note: need to review SQL, how to set up index ? ….,  need to review K-way merge)
+
+SQL : http://www.sqltutorial.org/
+
