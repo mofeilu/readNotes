@@ -20,7 +20,8 @@ https://web.stanford.edu/class/ee364a/lectures.html
 ======================== for deep learning and computer vision related ======================
 Map reduce framework
 Deep learning, object detection,  slam, bundle adjustment …
-Red black tree, KD tree
+Red black tree, 
+KD tree:   https://www.geeksforgeeks.org/k-dimensional-tree/
 Slam, structure from motion
 SIFT, HOG, Canny Edge detection
 RANSAC
