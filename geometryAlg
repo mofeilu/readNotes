@@ -26,3 +26,6 @@ formally,  we need:  ccw(l1.p1, l1.p2, l2.p1) * ccw(l1.p1, l1.p2, l2.p2) <= 0  &
 
 
 (6) voronoi diagrams
+
+
+(7) KD tree
