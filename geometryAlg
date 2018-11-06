@@ -20,12 +20,43 @@ formally,  we need:  ccw(l1.p1, l1.p2, l2.p1) * ccw(l1.p1, l1.p2, l2.p2) <= 0  &
 
 
 (4) find convex hull of set of points
-
+   https://www.geeksforgeeks.org/geometric-algorithms/#polygon
+   wrapping, graham, etc
+   also need to know insert/delete point and reconstruct convex hull
 
 (5) closest pair (Eucldian dist) in N points
 
 
 (6) voronoi diagrams
+  
+http://www.pi6.fernuni-hagen.de/downloads/publ/tr198.pdf
 
 
 (7) KD tree
+
+
+(8）how many hexagons and petagons a football have
+(assume that we know each hexagon have 3 petagon neighbor and each petagon have 5 hexagon neighbor)
+solution: https://www.geeksforgeeks.org/number-pentagons-hexagons-football/
+we need to use Euler's theorm:　V-E+F = 2 (V is # of vertices, E is # of edges and F is # of faces)
+
+assume we have H hexagons and P petagons,
+we have:  E = (6H - 5P)/2;  V = (6H + 5P)/3;  F = H + P;
+also due to the neighbor arrangements, we should have: H * 3/5 = P
+solve with euler's theorm, we got H = 20, P = 12
+
+
+(9) minimum area of regular polygon (equal edge length) with 3 points given
+solution:
+the result regular polygon must sit on a circle, which can be determined by given 3 points.
+we then need to determine the minimum number of edges n of regular polgygon (this imply a min area 
+regular polygon).  
+
+let's say the arc controled by each side of the given trianlge is A, B, C.
+then minimum n = 2*pi/GCD(A,B,C). 
+(draw a picture and then you will understand the intutition)
+
+
+
+
+
