@@ -22,6 +22,8 @@ Map reduce framework
 Deep learning, object detection,  slam, bundle adjustment …
 Red black tree, 
 KD tree:   https://www.geeksforgeeks.org/k-dimensional-tree/
+           http://andrewd.ces.clemson.edu/courses/cpsc805/references/nearest_search.pdf  (NN search)
+           https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf (NN search)
 Slam, structure from motion
 SIFT, HOG, Canny Edge detection
 RANSAC
