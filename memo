@@ -1,4 +1,11 @@
+Need to review all geometry related algs
+---------------------
+KD tree: construct, insert, delete, search NN reviewed
+-----------------
 mapreduce
 see tutorial:
 https://zettadatanet.wordpress.com/2015/04/04/a-hands-on-introduction-to-mapreduce-in-python/
 https://medium.com/@rrfd/your-first-map-reduce-using-hadoop-with-python-and-osx-ca3b6f3dfe78
+
+hdfs file, consistent hashing, memcached, etc reviewed
+
