@@ -1,0 +1,28 @@
+https://www.cs.princeton.edu/~rs/AlgsDS07/16Geometric.pdf
+
+(1) point in polygon:   https://en.wikipedia.org/wiki/Point_in_polygon#Ray_casting_algorithm
+solution: we can count crossing number of vertical ray starting from (x0,y0), if it intersect with polygon even times, it is outside,
+otherwise it is inside.  we test if the ray intersect with each of the polgyon's edges to count the total number of intersection
+
+(2) Given three point a, b, and c, is a-b-c a counterclockwise turn ?
+solution: we can calculate the area of triangle formed by a-b-c by using determinants:  
+A = cross_product(ab, ac) = (bx - ax)(cy - ay) - (by - ay）（cx - ax);
+if A > 0:  a-b-c is CCW
+if A < 0:  a-b-c is CW
+if A = 0:  a-b-c is colinear
+
+(3) given two line segments, do they intersect ?
+soluton: assme we have (l1.p1, l1.p2),  (l2.p1, l2.p2).  l1 intersect l2 if and only if
+CCW of (l1.p1, l1.p2, l2.p1) different from CCW of (l1.p1, l1.p2, l2.p2)
+and CCW of (l2.p1, l2.p2, l1.p1) different from CCW of (l2.p1, l2.p2, l1.p2)
+
+formally,  we need:  ccw(l1.p1, l1.p2, l2.p1) * ccw(l1.p1, l1.p2, l2.p2) <= 0  && ccw(l2.p1, l2.p2, l1.p1) * ccw (l2.p1, l2.p2, l1.p2) <= 0 
+
+
+(4) find convex hull of set of points
+
+
+(5) closest pair (Eucldian dist) in N points
+
+
+(6) voronoi diagrams
