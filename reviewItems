@@ -25,3 +25,8 @@ Slam, structure from motion
 SIFT, HOG, Canny Edge detection
 RANSAC
 Graph related algorithm (graph matching, cycle detection, etc)
+
+
+================= geometry algorithms =================
+https://www.cs.princeton.edu/~rs/AlgsDS07/16Geometric.pdf
+https://www.geeksforgeeks.org/geometric-algorithms/
