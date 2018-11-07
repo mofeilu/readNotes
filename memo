@@ -1,6 +1,10 @@
 Need to review all geometry related algs
+see book: Computational Geometry In C 2nd ed. - J. O'Rourke (1997)
+
+keywords:
+convex hull, polygon,  voronoi diagrams, search and intersection...
 ---------------------
-KD tree: construct, insert, delete, search NN reviewed
+KD tree: construct, insert, delete, search NN reviewed, red-black tree, 
 -----------------
 mapreduce
 see tutorial:
