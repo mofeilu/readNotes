@@ -32,7 +32,7 @@ formally,  we need:  ccw(l1.p1, l1.p2, l2.p1) * ccw(l1.p1, l1.p2, l2.p2) <= 0  &
 http://www.pi6.fernuni-hagen.de/downloads/publ/tr198.pdf
 
 
-(7) KD tree
+(7) KD tree, red black Tree
 
 
 (8）how many hexagons and petagons a football have
