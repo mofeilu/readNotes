@@ -1,6 +1,8 @@
 Need to review all geometry related algs
 see book: Computational Geometry In C 2nd ed. - J. O'Rourke (1997)
 
+for alg and DS, need to re-read the book "introduction to algorithm"
+
 keywords:
 convex hull, polygon,  voronoi diagrams, search and intersection...
 ---------------------
