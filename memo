@@ -1,3 +1,7 @@
+for DRC we can use segment tree, the tutorial of segment tree is here:
+https://www.topcoder.com/community/competitive-programming/tutorials/range-minimum-query-and-lowest-common-ancestor/
+
+
 Need to review all geometry related algs
 see book: Computational Geometry In C 2nd ed. - J. O'Rourke (1997)
 paper: Dynamic algorithms in computational geometry
