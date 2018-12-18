@@ -3,6 +3,10 @@ https://arxiv.org/pdf/1803.10122.pdf
 
 also check the work of david Ha
 
+a very good blog post:  https://www.alexirpan.com/page3/
+why DRL not working yet
+
+
 Didi Chuxing:
 Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning
 
@@ -27,6 +31,9 @@ https://ai.intel.com/demystifying-deep-reinforcement-learning/
 RL with tensorflow
 https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 the corresponding git: https://github.com/awjuliani/DeepRL-Agents
+
+Deep RL course:
+https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 
 
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
